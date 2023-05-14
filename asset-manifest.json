@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/videoSearcher/static/css/main.7064deb2.css",
+    "main.js": "/videoSearcher/static/js/main.4c2bedd1.js",
+    "index.html": "/videoSearcher/index.html",
+    "main.7064deb2.css.map": "/videoSearcher/static/css/main.7064deb2.css.map",
+    "main.4c2bedd1.js.map": "/videoSearcher/static/js/main.4c2bedd1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7064deb2.css",
+    "static/js/main.4c2bedd1.js"
+  ]
+}
